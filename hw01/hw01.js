@@ -84,6 +84,7 @@ Warrior.prototype.getCode = function() {
   return this.Code;
 }
 
+
 /**
  * Задание 4. Добавить метод toLightSide классу Jedi.
  * Метод в качестве параметра принимает экземпляр класса Sith.
